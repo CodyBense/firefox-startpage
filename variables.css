@@ -1,0 +1,46 @@
+:root {
+  /** colors */
+  --color-name: custom;
+  --color-bg-shade: #202020;
+  --color-bg-base: #282828;
+  --color-bg-surface: #303030;
+  --color-bg-highlight: #383838;
+  --color-fg-shade: #DABC70;
+  --color-fg-base: #EBDBB2;
+  --color-fg-surface: #FCFAF4;
+  --color-fg-highlight: #FFFFFF;
+  --color-primary-bg: #4C4B0D;
+  --color-primary-base: #98971A;
+  --color-primary-fg: #DCDA2F;
+  --color-secondary-bg: #6C4D10;
+  --color-secondary-base: #D79921;
+  --color-secondary-fg: #EDCA87;
+  --color-palette-red: #E06C75;
+  --color-palette-green: #98C379;
+  --color-palette-yellow: #E5C07B;
+  --color-palette-blue: #61AFEF;
+  --color-palette-purple: #C678DD;
+  --color-palette-cyan: #56B6C2;
+  --color-palette-orange: #FFBB7C;
+  
+  /** general */
+  --font-family: JetBrain Nerd Font Mono;
+  --font-size: 1;
+  --display-image: block;
+
+  /** surface */
+  --surface-maxWidth: 1000px;
+  --surface-shadow: 12px 12px 0px rgb(76, 75, 13), 24px 24px 0px rgb(84, 75.5, 13.75), 36px 36px 0px rgb(92, 76, 14.5), 48px 48px 0px rgb(100, 76.5, 15.25), 60px 60px 0px rgb(108, 77, 16);
+  --surface-borderRadius: 0px;
+
+  /** spacing */
+  --space-smallest: 0.125rem;
+  --space-small: 0.5rem;
+  --space-medium: 1rem;
+  --space-large: 1.5rem;
+  --space-largest: 3rem;
+
+  /** others */
+  --picture-size: 300px;
+  --group-count: 4;
+}
